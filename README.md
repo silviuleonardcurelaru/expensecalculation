@@ -1,5 +1,5 @@
 ## Calculate your expenses
-Here are my first codes to calculate my expenses through two programs (one in Python, one in Java) 
+Here is my code to calculate expenses using csv tables, also I have programmed a small calculator via tkinter.
 
 Python code:
 1. I use csv and os imports to calculate my expenses
